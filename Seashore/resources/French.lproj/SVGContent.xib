@@ -31,9 +31,9 @@
                         <autoresizingMask key="autoresizingMask"/>
                     </progressIndicator>
                     <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="23">
-                        <rect key="frame" x="27" y="67" width="186" height="14"/>
+                        <rect key="frame" x="18" y="67" width="204" height="14"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="center" title="This may take several minutes" id="53">
+                        <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="center" title="Cela peut prendre plusieurs minutes" id="53">
                             <font key="font" metaFont="message" size="11"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -42,7 +42,7 @@
                     <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="26">
                         <rect key="frame" x="27" y="89" width="186" height="17"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="Loading SVG File..." id="54">
+                        <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="Chargement du fichier SVG..." id="54">
                             <font key="font" metaFont="message"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -50,7 +50,7 @@
                     </textField>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="141" y="144"/>
+            <point key="canvasLocation" x="140" y="144"/>
         </window>
         <window title="Open" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" visibleAtLaunch="NO" animationBehavior="default" id="27" userLabel="Scaling" customClass="NSPanel">
             <windowStyleMask key="styleMask" titled="YES"/>
@@ -140,9 +140,9 @@ DQ
                         </connections>
                     </button>
                     <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="43">
-                        <rect key="frame" x="17" y="110" width="155" height="14"/>
+                        <rect key="frame" x="17" y="110" width="191" height="14"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <textFieldCell key="cell" sendsActionOnEndEditing="YES" title="Set document scale:" id="63">
+                        <textFieldCell key="cell" sendsActionOnEndEditing="YES" title="Régler l'échelle du document :" id="63">
                             <font key="font" metaFont="message" size="11"/>
                             <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>

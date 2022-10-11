@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>16-bit message</key>
+	<string>Seashore ne supporte pas l‘édition d‘images 16 bits. Elle a été rééchantillonée en 8 bits pour être importée.</string>
+	<key>SVG message</key>
+	<string>Seashore n‘est pas capable d‘ouvrir le fichier SVG donné car l‘importateur SVG n‘est pas installé. Le programme d‘installation pour cet importateur peut être trouvé sur le site web de Seashore.</string>
+	<key>all group</key>
+	<string>Tout</string>
+	<key>background</key>
+	<string>Arrière-plan</string>
+	<key>gif trans</key>
+	<string>Seashore ne supporte pas la tranparence ou les animations des fichiers GIF.</string>
+	<key>background layer</key>
+	<string>Couche d‘arrière-plan</string>
+	<key>beta message</key>
+	<string>Seashore est encore en cours de développement et peut contenir des bogues. Assurez-vous de travailler uniquement sur des copies de vos ‘images, ces dernières pouvant se retrouver corrompues. Merci également de rapporter tout bug que vous pourrier trouver.</string>
+	<key>cancel</key>
+	<string>Annuler</string>
+	<key>channels message</key>
+	<string>Ce fichier XCF contient des canaux qui ne sont pas supportés par Seashore à ce jour. Ces derniers seron perdus lors de l‘enregistrement de l‘image.</string>
+	<key>click count</key>
+	<string>Clics réalisés : %d</string>
+	<key>compatibility (gimp) message</key>
+	<string>Ce fichier contient des couches qui ne seront pas reconnues par les versions de The GIMP 1.2 ou précédentes.</string>
+	<key>corner radius</key>
+	<string>Rayon d‘angle : %d</string>
+	<key>disable alpha</key>
+	<string>Désactiver le canal Alpha</string>
+	<key>disk space body</key>
+	<string>Pour permettre un nombre illimité d‘annulations Seashore doit pouvoir écrire des données sur le disque système. Ce dernier disposant de moins de 50 Mo de libre, ces données écrites par Seashore vont être supprimée en toute ou partie (cela peut provoquer des dysfonctionnements lors de certaines opérations d‘annulation ou de répétition). En conséquence, il est fortement recommandé d‘enregistrer tous vos documents et de quittre Seashore. Cela peut améliorer la situation quant à l‘espace libre du disque système. Néanmoins, vous devriez faire du ménage dans les fichiers de ce disque afin de vous assurer que le problème de survienne pas de nouveau.</string>
+	<key>disk space title</key>
+	<string>Espace disque insuffisant</string>
+	<key>download available body</key>
+	<string>Une mise à jour de Seashore est disponible.</string>
+	<key>download available title</key>
+	<string>Mise à jour disponible</string>
+	<key>download error body</key>
+	<string>Le fichier nécessaire ne peut pas être téléchargé depuis internet. Veuillez vérifier que votre accès internet est foncitonnel puis esayer de nouveau.</string>
+	<key>download error title</key>
+	<string>Erreur de téléchargement.</string>
+	<key>download later</key>
+	<string>Télécharger plus tard</string>
+	<key>download now</key>
+	<string>Télécharger maintenant</string>
+	<key>empty selection body</key>
+	<string>La sélection ne peut pas être rendue flottante tant qu‘elle est vide.</string>
+	<key>empty selection copy body</key>
+	<string>La sélection ne peut pas être copiée si elle est vide.</string>
+	<key>empty selection copy title</key>
+	<string>Sélection vide</string>
+	<key>empty selection title</key>
+	<string>Sélection vide</string>
+	<key>enable alpha</key>
+	<string>Activer le canal Alpha</string>
+	<key>fade-out</key>
+	<string>Dégradé: %d</string>
+	<key>Corps de l‘enquête de retour d‘expérience</key>
+	<string>Afin d‘améliorer la prochaine version de Seashore nous demandons aux utilisateurs de participer à une enquête. Cette dernière consiste en une seule pageet est accessible en cliquant le bouton &quot;Démarrer l‘enquête&quot;. Ce message ne réapparaîtra pas.</string>
+	<key>feedback survey button</key>
+	<string>Démarrer l‘enquête</string>
+	<key>feedback survey title</key>
+	<string>Enquête de retour d‘expérience de Seashore</string>
+	<key>flatten body</key>
+	<string>Les parties du document qui ne sont pas visibles actuellement seront perdues. êTes-vous sûr de vouloir continuer ?</string>
+	<key>flatten title</key>
+	<string>L‘information va être perdue</string>
+	<key>flattened</key>
+	<string>Couche aplatie</string>
+	<key>float selection</key>
+	<string>Sélection flottante</string>
+	<key>foreground</key>
+	<string>Premier plan</string>
+	<key>general</key>
+	<string>Général</string>
+	<key>hide boundaries</key>
+	<string>Masquer les limites de la couche</string>
+	<key>hide brushes</key>
+	<string>Masquer les brosses</string>
+	<key>hide channels</key>
+	<string>Masquer les canaux</string>
+	<key>hide info</key>
+	<string>Masquer les information de point</string>
+	<key>hide layers</key>
+	<string>Masquer les couches</string>
+	<key>hide options</key>
+	<string>Masquer les options</string>
+	<key>hide rulers</key>
+	<string>Masquer les règles</string>
+	<key>hide textures</key>
+	<string>Masquer les textures</string>
+	<key>hide toolbox</key>
+	<string>Masquer la boîte à outils</string>
+	<key>hide transparent</key>
+	<string>Masquer la couleur de transprence</string>
+	<key>high res message</key>
+	<string>Cette image est en haute résiolution. Par conséquent, les performance de Seashore peuvent être dégradées. Vous pouvez réduire la résolution en utilisant &quot;Image &gt; Résolution...&quot; (en cochant avec &quot;Préserver la taillesize&quot;). Cela une image de basse qualité.</string>
+	<key>import failure message</key>
+	<string>Le fichier choisi n‘a pas pu être importé dans ce document.</string>
+	<key>indexed color body</key>
+	<string>Les fichiers XCF utilisant des couleurs indexées ne sont prises en charge qu‘à partir de la version 1. Cela vient du fait que la version 0 est connue pour rencontrer certais problèmes avec les couleurs indexées.</string>
+	<key>indexed color title</key>
+	<string>Les couleurs indexées ne sont pas prises en charge</string>
+	<key>jp2 not supported</key>
+	<string>Le format de fichier JPEG 2000 n‘est pris en charge qu‘à partir des systèmes fonctionnant sous Mac OS 10.4.</string>
+    <key>heic not supported</key>
+    <string> Le format de fichier HEIC n‘est pris en charge qu‘à partir des systèmes fonctionnant sous Mac OS 10.13.4.</string>
+	<key>layer title</key>
+	<string>Couche %d</string>
+	<key>locked body</key>
+	<string>L‘opération &quot;Comparer au dernier enregistrement&quot; a échoué. Les principales raisons possible à cela sont que le disque hébergeant le fichier orignial est plein ou en lecture seule.</string>
+	<key>locked title</key>
+	<string>L‘opération a échoué</string>
+	<key>mask-to-alpha message</key>
+	<string>Certains masques de cette image sont composés par leur canal Alpha. Ces masques seront perdus lors de l‘&apos;’enregistrement.</string>
+	<key>new images</key>
+	<string>Nouvelles images</string>
+	<key>no</key>
+	<string>Non</string>
+	<key>non-current message</key>
+	<string>Ce fichier sera supprimé This file will be deleted lors de sa fermeture s‘il n‘est pas enregistré.</string>
+	<key>not available</key>
+	<string>ND</string>
+	<key>ok</key>
+	<string>OK</string>
+	<key>old crash report message</key>
+	<string>Seashore a déplacé ses anciens rapport de crashdans la corbeille ; il seront suppirmé la prochaine fois que vous viderez la corbeille.</string>
+	<key>opacity</key>
+	<string>Opacité : %d%%</string>
+	<key>outline</key>
+	<string>Contour: %d pt</string>
+	<key>paper size</key>
+	<string>Taille du papier</string>
+	<key>rate</key>
+	<string>Taux : %d%%</string>
+	<key>read only message</key>
+	<string>Ce fichier est en mode lecture seule, vous devez donc Enregistrer sous/Exporter tout changement. Ce message ne sera pas affiché pour les prochains fichiers en lecture seule.</string>
+	<key>resolution no effect message</key>
+	<string>La résolution de cette image a changé et cela va affecter l‘impresison en l‘enregistrement. Cela n‘affectera pas la fenêtre d‘affichage en raison des Préférences réglés pour ignorer la résolution d‘image.</string>
+	<key>revert</key>
+	<string>Revenir</string>
+	<key>revert body</key>
+	<string>&quot;%@&quot; a été modifié. êtes-vous sûr de vouloir annuler les changements ?</string>
+	<key>revert title</key>
+	<string>Revenir</string>
+	<key>show boundaries</key>
+	<string>Afficher les limites de la couche</string>
+	<key>show brushes</key>
+	<string>Afficher les brosses</string>
+	<key>show channels</key>
+	<string>Afficher les canaux</string>
+	<key>show info</key>
+	<string>Afficher les informations de point</string>
+	<key>show layers</key>
+	<string>Afficher les couches</string>
+	<key>show options</key>
+	<string>Afficher les options</string>
+	<key>show rulers</key>
+	<string>Afficher les règles</string>
+	<key>show textures</key>
+	<string>Afficher les textures</string>
+	<key>show toolbox</key>
+	<string>Afficher la boîte à outils</string>
+	<key>show transparent</key>
+	<string>Afficher la couleur de transparence</string>
+	<key>source set</key>
+	<string>Source : (%d, %d) depuis &quot;%@&quot;</string>
+	<key>source set document</key>
+	<string>Source : (%d, %d) depuis le document entier</string>
+	<key>source unset</key>
+	<string>Source : Non défini</string>
+	<key>spacing</key>
+	<string>Espacement : %d%%</string>
+	<key>strange res message</key>
+	<string>Cette image a une résolution inhabituelle. Par conséquent, elle peut paraître différente de ce qui est attendu à un zomm de 100%. Pour corriger cela utilisez &quot;Image &gt; Résolution...&quot; et réglez la sur 72 x 72 dpi.</string>
+	<key>tolerance</key>
+	<string>Tolérance : %d</string>
+	<key>transparent</key>
+	<string>Transparent</string>
+	<key>untitled</key>
+	<string>Sans titre</string>
+	<key>up-to-date body</key>
+	<string>Seashore est à jour.</string>
+	<key>up-to-date title</key>
+	<string>à jour</string>
+	<key>user guide message</key>
+	<string>Seashore est fourni avec un guide pour appréhender ses fonctions. Choisissez simplement &quot;Aide de Seashore&quot; dans le menu &quot;Aide&quot; pour le consulter.</string>
+	<key>whole document</key>
+	<string>document entier</string>
+	<key>window back</key>
+	<string>arrière-plan de la fenêtre</string>
+	<key>xcf version body</key>
+	<string>La version du fichier XCF que vous tentez d‘ouvrir n‘est pas prise en charge par ce logiciel, tout sera tenté pour le charger en l‘état mais cela pour échouer.</string>
+	<key>xcf version title</key>
+	<string>Version de XCF non prise en charge</string>
+	<key>yes</key>
+	<string>Oui</string>
+	<key>zoom</key>
+	<string>Zoom : %.0f% %</string>
+</dict>
+</plist>

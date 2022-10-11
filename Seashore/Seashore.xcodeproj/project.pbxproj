@@ -516,6 +516,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		027773B928B82A3E00965ADE /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = French.lproj/CocoaContent.xib; sourceTree = "<group>"; };
+		027773BA28B82A8C00965ADE /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = French.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		027773BB28B830A700965ADE /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = French.lproj/SVGContent.xib; sourceTree = "<group>"; };
+		027773BC28B8316100965ADE /* French */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = French; path = French.lproj/SeaDocument.xib; sourceTree = "<group>"; };
+		02C8538128B2284C006D8F94 /* French */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = French; path = French.lproj/Localizable.strings; sourceTree = "<group>"; };
 		1058C7A7FEA54F5311CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
 		2A37F4B0FDCFA73011CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2A37F4C4FDCFA73011CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
@@ -2605,6 +2610,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2B80E9C8243567FB0046979F /* en */,
+				027773BC28B8316100965ADE /* French */,
 			);
 			name = SeaDocument.xib;
 			sourceTree = "<group>";
@@ -2613,6 +2619,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2B80E9CA243567FB0046979F /* en */,
+				027773BB28B830A700965ADE /* French */,
 			);
 			name = SVGContent.xib;
 			sourceTree = "<group>";
@@ -2621,6 +2628,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2B80E9CC243567FB0046979F /* en */,
+				027773B928B82A3E00965ADE /* French */,
 			);
 			name = CocoaContent.xib;
 			sourceTree = "<group>";
@@ -2629,6 +2637,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				2B80E9CE243567FB0046979F /* en */,
+				027773BA28B82A8C00965ADE /* French */,
 			);
 			name = MainMenu.xib;
 			sourceTree = "<group>";
@@ -2678,6 +2687,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A8CA47A406D82C10006F0681 /* English */,
+				02C8538128B2284C006D8F94 /* French */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
